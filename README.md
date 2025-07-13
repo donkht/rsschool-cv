@@ -1,1 +1,1 @@
-https://donkht.github.io/rsschool-cv/cv
+https://donkht.github.io/rsschool-cv/
